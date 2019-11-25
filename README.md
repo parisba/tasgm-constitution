@@ -7,4 +7,6 @@ The majority of this is based upon the [Associations Incorporation Model Rules](
 
 Issues with the constitution TeX files such as broken links or typos should be reported [here as issues](https://github.com/McJones/tasgm-constitution/issues/), concerns around TasGM itself should [go directly to the society](https://tasgamemakers.com).
 
-This project is available under the [CC BY-SA 3.0 AU license](https://creativecommons.org/licenses/by-sa/3.0/au/).
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/au/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/au/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/au/">Creative Commons Attribution-ShareAlike 3.0 Australia License</a>.
